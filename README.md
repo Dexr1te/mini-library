@@ -55,7 +55,7 @@ src/
 
 ⚙️ Installation & Setup
 Clone the repository
-git clone https://github.com/your-username/mini-library.git
+git clone https://github.com/Dexr1te/mini-library.git
 cd mini-library
 
 Install dependencies
@@ -69,6 +69,7 @@ npm run build
 
 Preview production build
 npm run preview
+
 
 
 
