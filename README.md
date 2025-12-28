@@ -51,6 +51,8 @@ src/
 ├── main.tsx
 ├── index.ts
 └── index.css
+```
+
 ⚙️ Installation & Setup
 Clone the repository
 git clone https://github.com/your-username/mini-library.git
@@ -132,3 +134,4 @@ All dependencies are listed in package.json.
 👤 Author
 
 Created as a learning / pet project.
+
